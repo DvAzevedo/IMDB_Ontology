@@ -1,7 +1,9 @@
 
 # Ignorar todas as pastas chamadas "compactados" e seus conteúdos
 **/compactados/
-.gz
+
+# Ignorar apenas arquivos .gz dentro de pastas chamadas "compactados"
+**/data/IMDBdata/*.tsv
 
 
 # Ignorar a pasta de anotações
