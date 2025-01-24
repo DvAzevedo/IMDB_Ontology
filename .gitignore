@@ -2,3 +2,7 @@
 # Ignorar todas as pastas chamadas "compactados" e seus conteúdos
 **/compactados/
 .gz
+
+
+# Ignorar a pasta de anotações
+**/Anotacoes/
